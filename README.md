@@ -96,9 +96,9 @@ https://www.facebook.com/
 [YOUTUBE][you]<br>
 <br>
 <!--image-->
-![alt-text](./Images/image.JPG)
+![alt-text](./Images/image.jpg)
 <br><br>
-<img src="./Images/image.JPG" 
+<img src="./Images/image.jpg" 
 alt = "My image" width="240" height="300" title="Rifat Boss">
 
 😀 This is emoji applied 
