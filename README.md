@@ -3,8 +3,8 @@
 <!--This is Header-->
 # Name: Rifat Arefin Mahim
 ## University: Khulna University of Engineering & Technology, Khulna.
-### College: Notre Dame College, Dhaka
-#### School: Monipur School &College, Dhaka.
+## College: Notre Dame College, Dhaka
+## School: Monipur School &College, Dhaka.
 <br>
 <!--Headers can be written in HTML formats-->
 <h1> Hello!! guys!!</h1>
